@@ -16,7 +16,7 @@ This app is far from an ideal architecture - it is currently all client-side ren
 In the future I may add [vuex](https://vuex.vuejs.org/) so it doesn't query the API every single page change.
 
 Ideally you would use server-side rendering like [this example](https://github.com/vuejs/vue-hackernews-2.0) does (in fact, that app is all around better).
-But to make testing certain tools easier, being strictly client-side rendered is preferable.
+But to make testing certain tools easier, being strictly client-side rendered is preferable.test
 
 ## Deployment requirements
 
